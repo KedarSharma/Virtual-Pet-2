@@ -29,7 +29,7 @@ function preload(){
 	coin = loadImage("images/coin.png");
 	feedImg = loadImage("images/feedbutton.jpg");
 	dogFoodImg = loadImage("images/dog food.png");
-	costImg = loadImage("images/Cost.jpg");
+	costImg = loadImage("./images/Cost.jpg");
 	backImg = loadImage("images/Back.jpg")
 }
 
